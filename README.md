@@ -45,14 +45,13 @@ Nodes intnialized using
 ### Node 2
 ./geth --datadir node2 --unlock "2F8BfA6b722458EF16820F39E30E7a5c22284f66" --mine --port 30304 --bootnodes "enode://c523ad3cc56f6776461c49a4b0b00caab1fa6fd27b13d2624d792513fbf8c2ada02ebdbba146aa32d9e47587fbddf7cbfe0915f5873188662fa00fc0e974ae61@127.0.0.1:30303" --ipcdisable --allow-insecure-unlock
 
-* Where  "fC8b954e9125784348B3215c2f386D596efa2a75" is the Sealer 1 addres and "2F8BfA6b722458EF16820F39E30E7a5c22284f66" is the Sealer 2 address 
-* c523ad3cc56f6776461c49a4b0b00caab1fa6fd27b13d2624d792513fbf8c2ada02ebdbba146aa32d9e47587fbddf7cbfe0915f5873188662fa00fc0e974ae61@127.0.0.1:30303 is the Sealer 1 encoded address produced after Node 1 is activated 
+Where  "fC8b954e9125784348B3215c2f386D596efa2a75" is the Sealer 1 address and "2F8BfA6b722458EF16820F39E30E7a5c22284f66" is the Sealer 2 address 
+
+"c523ad3cc56f6776461c49a4b0b00caab1fa6fd27b13d2624d792513fbf8c2ada02ebdbba146aa32d9e47587fbddf7cbfe0915f5873188662fa00fc0e974ae61@127.0.0.1:30303" is the Sealer 1 encoded address produced after Node 1 is activated 
 
 * Be sure to type your password in for both nodes 
 
 ### Running Nodes 1 & 2. Both nodes should be mining 
-
-4.Node1&2-mining.png
 
 ![Nodes Mining ](Screenshots/4.Node1&2-mining.png)
 
