@@ -10,8 +10,8 @@ Public Address Node 2: 0x2F8BfA6b722458EF16820F39E30E7a5c22284f66
 
 When working through this notebook be sure to create your own public address using geth by running 
 
-./geth --datadir node1 account new
-./geth --datadir node2 account new
+* ./geth --datadir node1 account new
+* ./geth --datadir node2 account new
 
 This was you will have your own set of passwords for each node
 
@@ -31,8 +31,8 @@ Each Node is pre-funded during the genesis block configuration.
 
 Nodes intnialized using 
 
-./geth --datadir node1 init \poatnet.json
-./geth --datadir node2 init \poatnet.json
+* ./geth --datadir node1 init \poatnet.json
+* ./geth --datadir node2 init \poatnet.json
 
 * json file provided above
 
@@ -77,5 +77,6 @@ Nodes intnialized using
  
  ### Check account Balance 
  
- 6.MyCrypto -Insufficient-Funds.png
  ![MyCrypto Balance](Screenshots/6.MyCrypto-Insufficient-Funds.png)
+
+* Insufficent funds in my account have prevented me from  moving forward with this project 
