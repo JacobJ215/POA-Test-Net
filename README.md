@@ -22,12 +22,12 @@ Each Node is pre-funded during the genesis block configuration.
 
 ### Initializing Node 1
 
-![Node 1 Initialized](2.Node-1-initialized.png)
+![Node 1 Initialized](Screenshots/2.Node-1-initialized.png)
 
 
 ### Initializing Node 2
 
-![Node 2 Initialized](2.Node-2-initialized.png)
+![Node 2 Initialized](Screenshots/3.Node-2-initialized.png)
 
 Nodes intnialized using 
 
@@ -54,7 +54,7 @@ Nodes intnialized using
 
 4.Node1&2-mining.png
 
-![Nodes Mining ](4.Node1&2-mining.png)
+![Nodes Mining ](Screenshots/4.Node1&2-mining.png)
 
 # My Crypto Transcations 
 
@@ -73,4 +73,9 @@ Nodes intnialized using
 
  Select Wallet File, then navigate to the keystore directory inside your Node1 directory (provided above) select the file located there, provide your password when prompted and then click Unlock.
  
- ![Nodes Mining ](4.Node1&2-mining.png)
+ ![Nodes Mining ](Screenshots/5.Unlock-using-Keystore.png)
+ 
+ ### Check account Balance 
+ 
+ 6.MyCrypto -Insufficient-Funds.png
+ ![MyCrypto Balance](Screenshots/6.MyCrypto-Insufficient-Funds.png)
